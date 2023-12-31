@@ -1,0 +1,69 @@
+*{
+    margin: 0 auto;
+}
+body{
+    width: 412px;
+    height: 743px;
+   
+}
+.top img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+
+}
+.top h1{
+    text-align: center; 
+
+}
+.hello{
+    width:90% ;
+    height: 20px ;
+    border-color: rgba(183, 224, 34, 0.89);
+    border-radius: 5px;
+    padding: 10px 10px;
+
+ }
+h3{
+    color: rgb(13, 95, 95);
+}
+.h1h1{
+    padding: 0 20px;
+    position: relative;
+    top: 10%;
+
+}
+.pre{
+    display: flex;}
+
+.pre input{
+    width: 80%;
+    height: 20px ;
+    border-color: rgba(183, 224, 34, 0.89);
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+.butt
+    {display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.myButton {
+    background-color: rgba(183, 224, 34, 0.89);
+    color: white;
+    border-style: outset;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s;
+    border-radius: 3px;
+   }
+}
+
+
